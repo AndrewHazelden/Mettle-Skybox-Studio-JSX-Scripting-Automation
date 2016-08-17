@@ -55,6 +55,6 @@ You can also try out different settings like the Tilt (X axis), Pan (Y axis), or
 
 ![Edit the rotation lines](images/jsx-script-rotation-lines.png)
 
-Step 5. To run the script, click the triangle shaped "play" button in the Adobe ExtendScript Toolkit program's toolbar.
+Step 5. To run the script, select "After Effects" as the target program in the ExtendScript Toolkit toolbar. Then click the triangle shaped "play" button in the toolbar.
 
 ![Play Button](images/extendscript-toolkit-play-button.png)
