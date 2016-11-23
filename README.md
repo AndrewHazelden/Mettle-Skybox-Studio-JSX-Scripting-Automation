@@ -1,6 +1,6 @@
 # Mettle Skybox Studio JSX Scripting Automation #
 ----
-**Version 1.0** - 2016-08-17  
+**Version 1.0** - 2016-11-23  
 by Andrew Hazelden  
 
 Twitter: [@AndrewHazelden](https://twitter.com/andrewhazelden)  
