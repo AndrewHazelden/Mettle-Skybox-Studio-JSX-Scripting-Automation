@@ -3,7 +3,6 @@ After Effects JSX Scripting Example for Mettle Skybox Studio Converter v1.x
 2016-11-23 11.21 AM
 
 by Andrew Hazelden
-Twitter: https://twitter.com/andrewhazelden
 Email: andrew@andrewhazelden.com
 Web: http://www.andrewhazelden.com
 
